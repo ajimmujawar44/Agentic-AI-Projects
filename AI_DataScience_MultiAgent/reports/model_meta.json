@@ -1,0 +1,21 @@
+{
+    "Task": "classification",
+    "Target": "Unnamed: 0",
+    "Best Model": "Decision Tree",
+    "Score": 0.9934246575342466,
+    "Features": [
+        "Date",
+        "AveragePrice",
+        "Total Volume",
+        "4046",
+        "4225",
+        "4770",
+        "Total Bags",
+        "Small Bags",
+        "Large Bags",
+        "XLarge Bags",
+        "type",
+        "year",
+        "region"
+    ]
+}

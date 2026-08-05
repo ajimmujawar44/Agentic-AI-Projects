@@ -1,0 +1,8 @@
+streamlit>=1.38
+python-dotenv>=1.0
+autogen-agentchat>=0.4
+autogen-ext[openai]>=0.4
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+joblib>=1.4

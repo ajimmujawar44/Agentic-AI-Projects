@@ -1,0 +1,23 @@
+
+========================================================
+AI DATA SCIENCE MULTI-AGENT REPORT
+========================================================
+
+Generated On:
+2026-08-05 23:05:54.592197
+
+Dataset:
+avocado.csv
+
+Target Column:
+Unnamed: 0
+
+Best Model:
+Decision Tree
+
+Performance Score:
+0.9934
+
+Pipeline Completed Successfully.
+
+========================================================
